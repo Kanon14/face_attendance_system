@@ -7,5 +7,6 @@ requires-python = ">=3.11"
 dependencies = [
     "cmake==4.3.0",
     "cvzone>=1.6.1",
+    "ipykernel>=7.2.0",
     "opencv-python>=4.13.0.92",
 ]
