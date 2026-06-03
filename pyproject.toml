@@ -10,4 +10,5 @@ dependencies = [
     "deepface>=0.0.100",
     "ipykernel>=7.2.0",
     "opencv-python>=4.13.0.92",
+    "tf-keras>=2.21.0",
 ]
